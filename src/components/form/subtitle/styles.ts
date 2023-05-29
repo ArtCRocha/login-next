@@ -11,6 +11,7 @@ export const SubtitleStyle = styled.h3<SubtitlePropsStyle>`
   font-size: 15px;
 
   a {
-    color: red;
+    color: #3e838c;
+    text-decoration: none;
   }
 `;
